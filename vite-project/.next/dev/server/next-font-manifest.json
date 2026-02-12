@@ -1,0 +1,10 @@
+{
+  "app": {
+    "[project]/vite-project/src/app/page": [
+      "static/media/Tanker_Regular-s.p.785085a6.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

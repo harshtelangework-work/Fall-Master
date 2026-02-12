@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/vite-project/src/app/tanker_799eaa2f.module.css"],"sourcesContent":["@font-face {\n    \nfont-family: 'tanker';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/Tanker-Regular.woff2%22,%22preload%22:true,%22has_size_adjust%22:true}') format('woff2');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'tanker Fallback';\n    src: local(\"Arial\");\n    ascent-override: 115.45%;\ndescent-override: 30.02%;\nline-gap-override: 10.39%;\nsize-adjust: 86.62%;\n\n}\n\n.className {\n    font-family: 'tanker', 'tanker Fallback';\n    \n}\n.variable {\n    --font-tanker: 'tanker', 'tanker Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAQA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

@@ -1,0 +1,25 @@
+/* [project]/vite-project/src/app/tanker_799eaa2f.module.css [app-client] (css) */
+@font-face {
+  font-family: tanker;
+  src: url("../media/Tanker_Regular-s.p.785085a6.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: tanker Fallback;
+  src: local(Arial);
+  ascent-override: 115.45%;
+  descent-override: 30.02%;
+  line-gap-override: 10.39%;
+  size-adjust: 86.62%;
+}
+
+.tanker_799eaa2f-module__xgJf2a__className {
+  font-family: tanker, tanker Fallback;
+}
+
+.tanker_799eaa2f-module__xgJf2a__variable {
+  --font-tanker: "tanker", "tanker Fallback";
+}
+
+/*# sourceMappingURL=vite-project_src_app_tanker_799eaa2f_module_css_bad6b30c._.single.css.map*/
